@@ -1,0 +1,2 @@
+### GET POKE BY NAME "charmeleon"
+GET http://localhost:3000/poke/charmeleon HTTP/1.1
